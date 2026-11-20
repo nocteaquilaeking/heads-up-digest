@@ -1,0 +1,9 @@
+{
+  "name": "heads-up-digest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite --host 0.0.0.0 --port 5173", "build": "tsc -b && vite build", "preview": "vite preview" },
+  "dependencies": { "@evenrealities/even_hub_sdk": "0.0.14" },
+  "devDependencies": { "typescript": "~5.7.2", "vite": "^6.0.5" }
+}
