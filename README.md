@@ -4,6 +4,8 @@ Heads-Up Digest is a glanceable Telegram highlights feed and read-only crypto wa
 
 **Hackathon track:** Messaging & News. **Candidate:** Best Telegram Integration.
 
+**Project history:** Heads-Up Digest was first built on 20 November 2026 — this project and its repository existed before the Even Realities submission window opened on 23 November 2026, as the commit history shows.
+
 ## Run locally
 
 ```sh
